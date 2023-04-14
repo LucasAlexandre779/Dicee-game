@@ -1,0 +1,38 @@
+body {
+    background-color: #393646;
+}
+
+h1 {
+    font-family: 'Fredericka the Great', cursive;
+    color: aliceblue;
+    font-size: 8rem;
+    text-shadow: 20px, black;
+    margin: 30px;
+}
+
+p {
+    font-family: 'Reggae One', cursive;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+footer {
+    font-family: 'Reggae One', cursive;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 6px;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    width: 18rem;
+}
+
+.container {
+    text-align: center;
+
+}
